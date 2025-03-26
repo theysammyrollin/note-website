@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open When...</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <h1>Open When...</h1>
+    <ul>
+        <li>Open when you're sad → You deserve all the love in the world 💕</li>
+        <li>Open when you're happy → I love seeing you like this 😍</li>
+        <li>Open when you miss me → I miss you too. Always. ❤️</li>
+    </ul>
+    <a href="../index.html">Back to Home</a>
+</body>
+</html>
